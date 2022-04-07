@@ -1,4 +1,4 @@
-python==3.8.13
+python-matplotlib
 Flask==1.1.2
 joblib==1.0.1
 numpy==1.19.5
