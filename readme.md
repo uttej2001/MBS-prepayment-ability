@@ -61,28 +61,22 @@ def predict():
 ### Screenshot of the project
 
 #### UI of the project
-
-![image](https://user-images.githubusercontent.com/57294017/152632487-700ded30-d8a4-4fbb-970a-621e81188562.png)
-
-
-![image](https://user-images.githubusercontent.com/57294017/152632519-f5a1abcb-148a-4d1b-b7d9-dce301012c51.png)
-
-![image](https://user-images.githubusercontent.com/57294017/152632529-c4696a71-0b27-4188-97f0-6fb675cce0d5.png)
-
+![image](https://user-images.githubusercontent.com/72940291/162266353-c6df66b5-e07e-45f9-8564-44f8d6f2ce60.png)
+![image](https://user-images.githubusercontent.com/72940291/162266432-ce356126-030d-4c26-8d59-4abb91de8c6f.png)
 
 ### Result for the prediction
 
-For the prepaid condition
 ![image](https://user-images.githubusercontent.com/57294017/152645973-e8b93c84-473b-4f70-a551-d0b9072e196b.png)
+
+For the prepaid condition
+
 ![image](https://user-images.githubusercontent.com/57294017/152646048-98075aac-3961-4d0f-a997-ef2075f79cf7.png)
 
 For the non-prepaid condition
+
 ![image](https://user-images.githubusercontent.com/57294017/152646364-cb1398bb-6087-4ace-8a4a-51b8c92541a3.png)
 
 
 ### Deployment Link for Model Using Logistic Regression:
- https://ml-mortgageprepayment.herokuapp.com/
 
-### Deployment Link for Model Using K-NN Algorithm:
-https://deploy-mortgage-application.herokuapp.com/
 
