@@ -461,7 +461,7 @@ def predict():
 
 ![image](https://user-images.githubusercontent.com/57294017/152632519-f5a1abcb-148a-4d1b-b7d9-dce301012c51.png)
 
-![image](https://user-images.githubusercontent.com/57294017/152632529-c4696a71-0b27-4188-97f0-6fb675cce0d5.png)
+![image](https://user-images.githubusercontent.com/72940291/162268785-8b31e7c1-37c7-4e75-b8ed-2370eb2c30af.png)
 
 
 ### Result for the prediction
