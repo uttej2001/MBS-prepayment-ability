@@ -5,7 +5,7 @@ from sklearn.preprocessing import StandardScaler
 import joblib
 
 
-model = joblib.load('LogisticRegression_model.pkl')
+model = joblib.load('model.pkl')
 app = Flask(__name__)
 
 standard_to = StandardScaler()
